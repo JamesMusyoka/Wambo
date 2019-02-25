@@ -1,0 +1,115 @@
+nav {
+    max-width: 800px;
+    padding: 10px;
+  }
+  nav>ul {
+    text-align: right;
+  }
+  nav>ul>li {
+    display: inline-block;
+  }
+  nav>ul>li>a {
+    padding: 20px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-shadow: 0px 2px 2px black;
+    font-family: Cinzel;
+  }
+  nav>ul>li>a:hover {
+    background: pink;
+    color: white;
+    box-shadow: 0px 2px 2px black;
+  }
+  h1 {
+    font-family: Cinzel;
+    font-size: 200%;
+    text-align: center;
+    letter-spacing: o.2em;
+    text-shadow: 0px 3px 3px pink;
+  }
+  #qwerty {
+    transition: transform.2s;
+  }
+  #qwerty:hover {
+    transform: scale(1.2);
+  }
+  footer {
+    font-family: Charmonman;
+    text-align: center;
+    font-size: 100%;
+  }
+  #row {
+    background-image: url(https://cdn.hipwallpaper.com/i/99/46/k5vJXG.jpg);
+    padding: 20px;
+  }
+  #fashion {
+    font-family: Andika;
+    font-size: 150%;
+  }
+  h1, h2 {
+    text-align: center;
+    margin-bottom: 0;
+  }
+  #introduction {
+    font-family: Stalemate;
+    font-size: 350%;
+    color: black;
+    text-shadow: 0px 3px 3px pink;
+    padding: 5px;
+    display: center;
+  }
+  #About {
+    font-family: Stalemate;
+    font-size: 350%;
+    color: black;
+    text-shadow: 0px 3px 3px pink;
+    display: center;
+    padding: 5px;
+  }
+  #Watch {
+    font-family: Stalemate;
+    font-size: 350%;
+  }
+  a:hover {
+    padding: 1em;
+    background-color: pink;
+    opacity: 0.6;
+  }
+  #qwerty {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  h2 {
+    font-family: Stalemate;
+    font-size: 300%;
+  }
+  p #intoduction {
+    font-weight: bold;
+  }
+  li {
+    font-size: x-large;
+  }
+  #contacts {
+    font-family: Stalemate;
+    font-size: 350%;
+    color: black;
+    text-shadow: 0px 3px 3px pink;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  #phone {
+    margin-bottom: 0;
+    font-size: 200%;
+  }
+  #social {
+    display: flex;
+    justify-content: space-around;
+  }
+  #intro {
+    font-family: Andika;
+    font-size: 1.5em;
+  }
